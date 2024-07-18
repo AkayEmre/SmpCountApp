@@ -10,7 +10,6 @@ def simple_counter(seconds):
 # Sayaç süresi (saniye)
 counter_duration = int(input(f"Sayaç Süresini giriniz: "))
 
-
 # Sayaç başlatma
 simple_counter(counter_duration)
 
